@@ -1,4 +1,4 @@
-Feature: Users gets a message after looking for random dog
+Feature: Users gets a message after looking for random dog on Dog API
 
   Scenario: Client searches for random dog
 
